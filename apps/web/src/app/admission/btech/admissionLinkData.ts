@@ -27,7 +27,7 @@ export const bTechAdmissionLinks: LinkItem[] = [
   },
   {
     title: "Scholarships",
-    href: "/docs/LIST_OF_Scholarship_Details.pdf",
+    href: "/scholarship/",
   },
   {
     title: "FAQ's",
@@ -75,7 +75,7 @@ export const quickLinks: LinkItem[] = [
   },
   {
     title: "Scholarships",
-    href: "/docs/LIST_OF_Scholarship_Details.pdf",
+    href: "/scholarship/",
   },
   {
     title: "PM VIDYA LAXMI EDUCATION LOAN SCHEME - CANARA BANK",

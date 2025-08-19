@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "php -S localhost:8000 -t .",
     "setup": "php setup.php",
-    "lint": "php -l index.php && find src config -name '*.php' -exec php -l {} \\;",
+    "lint": "php -l index.php && php lint-php.php",
     "clean": "rm -rf docs/* images/* && touch docs/.gitkeep images/.gitkeep",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
